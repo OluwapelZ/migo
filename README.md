@@ -1,4 +1,4 @@
-# Migo Micro Service
+# Micro Service Sample - 3rd Party endpoint connection
 
 ### This micro service is provider specific```
 
